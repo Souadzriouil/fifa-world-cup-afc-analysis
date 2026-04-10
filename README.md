@@ -38,6 +38,8 @@ The dataset contains historical performance of national teams in FIFA World Cup.
 
 ## ⚙️ Project Structure
 
+```
+
 fifa-world-cup-afc-analysis/
 │
 ├── data/
@@ -57,6 +59,9 @@ fifa-world-cup-afc-analysis/
 │
 ├── requirements.txt
 └── README.md
+
+```
+
 ---
 
 ## 📊 Visualizations
