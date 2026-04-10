@@ -102,12 +102,17 @@ fifa-world-cup-afc-analysis/
 
 Install dependencies:
 
+```
 pip install -r requirements.txt
+
+```
 
 Run notebook:
 
+```
 jupyter notebook notebooks/afc_analysis.ipynb
 
+```
 ---
 
 ## 👩‍💻 Author
