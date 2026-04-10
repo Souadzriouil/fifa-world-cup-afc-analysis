@@ -24,11 +24,7 @@ The dataset contains historical performance of national teams in FIFA World Cup.
 - **Team** → National team  
 - **W** → Wins  
 - **D** → Draws  
-- **L** → Losses  
-- **GF** → Goals scored  
-- **GA** → Goals conceded  
-- **GD** → Goal difference  
-- **Pts** → Points  
+- **L** → Losses   
 
 ---
 
