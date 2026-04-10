@@ -70,13 +70,13 @@ fifa-world-cup-afc-analysis/
 ![Scree Plot](visuals/scree_plot.png)
 
 ### 🔹 Biplot (Teams vs Results)
-![Biplot](visuals/le biplot de lignes et colonnes.png)
+![Biplot](visuals/biplot.png)
 
 ### 🔹 Row Points (Teams Distribution)
-![Row Points](visuals/Afficher le graphique des points lignes colorés.png)
+![Row Points](visuals/row_points.png)
 
 ### 🔹 Contingency Table Visualization
-![Contingency](visuals/tableau de contingence en diagramme a bulle.png)
+![Contingency](visuals/contingency_bubble.png)
 
 ---
 
