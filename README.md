@@ -40,24 +40,23 @@ The dataset contains historical performance of national teams in FIFA World Cup.
 
 fifa-world-cup-afc-analysis/
 │
-├── data/              
-│   └── donnees_nettoyees_Coupe_du_monde.xlsx
+├── data/
+│ └── donnees_nettoyees_Coupe_du_monde.xlsx
 │
-├── notebooks/         
-│   └── afc_analysis.ipynb
+├── notebooks/
+│ └── afc_analysis.ipynb
 │
-├── visuals/           
-│   ├── scree_plot.png
-│   ├── le biplot de lignes et colonnes.png
-│   ├── Afficher le graphique des points lignes colorés.png
-│   └── tableau de contingence en diagramme a bulle.png
+├── visuals/
+│ ├── scree_plot.png
+│ ├── le biplot de lignes et colonnes.png
+│ ├── Afficher le graphique des points lignes colorés.png
+│ └── tableau de contingence en diagramme a bulle.png
 │
-├── report/            
-│   └── AFC_Project_Report.pdf
+├── report/
+│ └── AFC_Project_Report.pdf
 │
-├── requirements.txt   
+├── requirements.txt
 └── README.md
-
 ---
 
 ## 📊 Visualizations
