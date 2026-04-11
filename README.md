@@ -1,4 +1,4 @@
-# ⚽ FIFA World Cup Teams Performance Analysis (AFC)
+# ⚽ FIFA World Cup Analysis | Correspondence Analysis (AFC)
 
 ## 📌 Overview
 This project analyzes the **performance of national football teams** in the FIFA World Cup (up to 2022) using **Correspondence Analysis (AFC)**.
@@ -47,6 +47,9 @@ fifa-world-cup-afc-analysis/
 │
 ├── notebooks/
 │ └── afc_analysis.ipynb
+|
+├── report/
+│ └── AFC_Project_Report.pdf
 │
 ├── visuals/
 │ ├── scree_plot.png
@@ -54,11 +57,9 @@ fifa-world-cup-afc-analysis/
 │ ├── Afficher le graphique des points lignes colorés.png
 │ └── tableau de contingence en diagramme a bulle.png
 │
-├── report/
-│ └── AFC_Project_Report.pdf
 │
-├── requirements.txt
-└── README.md
+├── README.md
+└── requirements.txt
 
 ```
 
@@ -87,14 +88,24 @@ fifa-world-cup-afc-analysis/
 - First dimension explains **78.7% of variance**
 - Second dimension explains **21.3%**
 - Total variance explained = **100%**
+- Strong statistical significance confirmed by **Chi-square test**
 
 ---
 
-## 🧠 Insights
-- Strong teams (Brazil, Germany, France) are associated with **wins**
-- Some teams are more associated with **draws**
-- Others are linked to **losses**
-- AFC clearly separates teams based on performance
+## 🧠 Key Insights
+- Top-performing teams such as **Brazil, Germany, and France** are strongly associated with **winning outcomes**
+- Some teams show a tendency toward **draw-heavy performance**
+- Lower-performing teams are more associated with **losses**
+- Correspondence Analysis clearly separates teams based on performance profiles
+
+---
+
+## 💡 Business Value
+This analysis can be applied to:
+- 📊 Sports analytics → Evaluate team performance trends
+- ⚽ Coaching strategies → Understand strengths and weaknesses
+- 📈 Data storytelling → Transform raw data into insights
+- 🧠 Decision-making → Support performance-based evaluations
 
 ---
 
